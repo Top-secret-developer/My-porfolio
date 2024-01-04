@@ -1,4 +1,4 @@
-alert("helloworld")
+
 let hamburger = document.querySelector('.hamburger')
 let nav = document.querySelector('.navlinks')
 let navlinks = document.querySelectorAll('.navlinks li')
